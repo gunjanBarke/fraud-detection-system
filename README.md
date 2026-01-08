@@ -1,4 +1,9 @@
 # Fraud Transaction Detection using Machine Learning
+
+
+⚠️ Note: Due to GitHub file size limits, a representative sample of the dataset is provided. 
+The full dataset can be downloaded from the original source.
+
 📌 Project Overview
 
 This project focuses on building a machine learning–based fraud detection system for a financial company.
