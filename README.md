@@ -171,6 +171,7 @@ Model deployment using FastAPI
 Real-time streaming integration
 
 Periodic retraining with new data
+
 Continuous model retraining
 
 ✅ Conclusion
