@@ -171,10 +171,10 @@ Model deployment using FastAPI
 Real-time streaming integration
 
 Periodic retraining with new data
+Continuous model retraining
 
 ✅ Conclusion
 
 This project demonstrates how machine learning can significantly improve fraud detection over traditional rule-based approaches.
 The final model is realistic, leakage-free, business-aligned, and production-ready.
 
-Continuous model retraining
