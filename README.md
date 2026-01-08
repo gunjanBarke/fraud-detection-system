@@ -2,7 +2,6 @@
 
 
 ⚠️ Note: Due to GitHub file size limits, a representative sample of the dataset is provided. 
-The full dataset can be downloaded from the original source.
 
 📌 Project Overview
 
